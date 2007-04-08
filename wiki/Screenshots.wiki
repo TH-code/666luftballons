@@ -1,0 +1,14 @@
+﻿#summary Screenshots of the game in action.
+
+= In game screenshots =
+
+Below you can see a screenshot of the game in action. You can see the balloons as they try to escape to the top.
+
+http://666luftballons.googlecode.com/svn/wiki/screenshots/ingame.png
+
+= Startup screen =
+
+This is the screen you see when you start the game. Use the arrow keys to
+choose a menu item and then press space to select it.
+
+http://666luftballons.googlecode.com/svn/wiki/screenshots/startscreen.png
