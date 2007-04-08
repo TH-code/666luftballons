@@ -1,4 +1,5 @@
 ﻿#summary Screenshots of the game in action.
+#labels Featured
 
 = In game screenshots =
 
