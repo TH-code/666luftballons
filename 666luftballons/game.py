@@ -67,6 +67,8 @@ class Game(object):
         for type in balloon_types:
             score_animations[type] = {
                 'normal': Animation(
+                    [data.load_graphic(type + '-alpha.png')], 1),
+                'next': Animation(
                     [data.load_graphic(type + '-inactive.png')], 1),
                 'scored': data.load_animation(type, range(1, 10), 14)}
 
