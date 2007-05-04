@@ -35,6 +35,8 @@ class ComboPanel(pygame.sprite.Sprite):
         for i, type in enumerate(self.score.sequence):
             if i < self.score.sequence_index:
                 image_type = 'scored'
+            elif i == self.score.sequence_index:
+                image_type = 'next'
             else:
                 image_type = 'normal'
             image = self.score_animations[type][image_type].image
